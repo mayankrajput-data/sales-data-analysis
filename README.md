@@ -28,5 +28,5 @@ Cleaned and analyzed 4,000+ sales records to generate actionable insights for bu
 **Mayank Rajput**
 
 ## Contact
-- GitHub: [github.com/your-username](https://github.com/your-username)  
+- GitHub: [github.com/your-username](https://github.com/mayankrajput-data)  
 - LinkedIn: [linkedin.com/in/mayank-rajput](http://linkedin.com/in/mayank-rajput-7b4715267)
